@@ -10,6 +10,6 @@ public class FatorialSimples {
             conta[i] = i + 1;
             resultado *= conta[i];
         }
-        System.out.println( resultado);
+        System.out.println(resultado);
     }
 }
