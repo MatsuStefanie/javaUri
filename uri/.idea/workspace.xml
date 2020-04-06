@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f7dd21c-96f7-4e41-a30f-2135cbe30b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Explicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibovetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SomaImparesHard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VetorIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPFEntradaSaida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodSecreto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PreguicaDeJoaozinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saida.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FatorialSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatorialSimples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,37 +50,37 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Run">
-    <configuration name="Fibovetor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibovetor" />
+  <component name="RunManager" selected="Application.PreguicaDeJoaozinho">
+    <configuration name="CPFEntradaSaida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CPFEntradaSaida" />
       <module name="uri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Run" />
+    <configuration name="Cha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cha" />
       <module name="uri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaImparesHard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SomaImparesHard" />
+    <configuration name="IJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IJ" />
       <module name="uri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VetorFull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VetorFull" />
+    <configuration name="PreguicaDeJoaozinho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreguicaDeJoaozinho" />
       <module name="uri" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VetorIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VetorIII" />
+    <configuration name="Saida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Saida" />
       <module name="uri" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.VetorIII" />
-        <item itemvalue="Application.Fibovetor" />
-        <item itemvalue="Application.SomaImparesHard" />
-        <item itemvalue="Application.VetorFull" />
+        <item itemvalue="Application.PreguicaDeJoaozinho" />
+        <item itemvalue="Application.IJ" />
+        <item itemvalue="Application.CPFEntradaSaida" />
+        <item itemvalue="Application.Saida" />
+        <item itemvalue="Application.Cha" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,9 @@
       <workItem from="1584715806113" duration="6087000" />
       <workItem from="1584758910672" duration="11317000" />
       <workItem from="1584804415106" duration="3085000" />
-      <workItem from="1584813457165" duration="20295000" />
+      <workItem from="1584813457165" duration="20751000" />
+      <workItem from="1584990705961" duration="6729000" />
+      <workItem from="1586178930003" duration="1753000" />
     </task>
     <servers />
   </component>
@@ -130,50 +131,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1584805057176" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1584820320339">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1586180762187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584820320339" />
-    <state width="1323" height="186" key="GridCell.Tab.0.bottom" timestamp="1584847118437">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586180762187" />
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom" timestamp="1584996807681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584847118437" />
-    <state width="1323" height="186" key="GridCell.Tab.0.center" timestamp="1584847118437">
+    <state width="1323" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584996807681" />
+    <state width="1323" height="186" key="GridCell.Tab.0.center" timestamp="1584996807680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584847118437" />
-    <state width="1323" height="186" key="GridCell.Tab.0.left" timestamp="1584847118436">
+    <state width="1323" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584996807680" />
+    <state width="1323" height="186" key="GridCell.Tab.0.left" timestamp="1584996807680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584847118436" />
-    <state width="1323" height="186" key="GridCell.Tab.0.right" timestamp="1584847118437">
+    <state width="1323" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584996807680" />
+    <state width="1323" height="186" key="GridCell.Tab.0.right" timestamp="1584996807681">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584847118437" />
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1584836379663">
+    <state width="1323" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584996807681" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1584996788763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584836379663" />
-    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1584836379663">
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584996788763" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center" timestamp="1584996788763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584836379663" />
-    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1584836379663">
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584996788763" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left" timestamp="1584996788763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584836379663" />
-    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1584836379663">
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584996788763" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right" timestamp="1584996788763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584836379663" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584996788763" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1584847453795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584847453795" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584813470483">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586180641071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584813470483" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586180641070" />
     <state x="263" y="18" key="editAsTableFormatDialogDimension" timestamp="1584804507110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -219,6 +220,11 @@
           <url>file://$PROJECT_DIR$/src/Fibovetor.java</url>
           <line>9</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PreguicaDeJoaozinho.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
